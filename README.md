@@ -5,7 +5,7 @@
 
 A personal autobiography and portfolio website built with [Streamlit](https://streamlit.io) for **CSIT 349 · Applied AI**.
 
-🔗 **Live app:** [](https://autobiography-ycjisfjeeb3eoksrdtzkyo.streamlit.app/)
+🔗 **Live app:** (https://autobiography-ycjisfjeeb3eoksrdtzkyo.streamlit.app/)
 
 ## 👤 About the author
 
